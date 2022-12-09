@@ -1,0 +1,94 @@
+Snuggles,C
+Fluffy,C
+Cuddles,R
+Puddles,C
+Fuzzy,C
+Huggles,R
+Lulu,C
+Teddie,R
+Bella,R
+Coco,C
+Max,C
+Gizmo,C
+Dolly,C
+Teddy,C
+Marshmallow,C
+Muffin,C
+Gigi,C
+Poof,C
+Mr. Fluffernutter,C
+Dust Bunny,C
+Whiskers,SR
+Puddles McFluffernutter,C
+Fluffykins,C
+Snickers,C
+Boots,C
+Pippin,C
+Mr. Cuddles,C
+Wiggles,C
+Snugglesworth,C
+Snuffles,C
+Chuckles,C
+Squeakers,C
+Cuddles McFluffernutter,SR
+Fuzzbucket,C
+Cutie Pie,C
+Nugget,C
+Smoochie,R
+Fluffernutter,C
+Buttons,C
+Fluffernutter McFluffernutter,C
+Fluffy Bunny,R
+Fuzzy Wuzzy,C
+Mr. Snuffles,C
+Snuggle Bunny,C
+Snugglebutt,C
+Snuggly,C
+Snugglesworth McFluffernutter,SR
+Wigglesworth,C
+Cuddlebug,C
+Fuzzy Bear,SR
+Fuzzy Wuzzy Bear,C
+Fluffy Wuffy,C
+Fuzzy McFluffernutter,C
+Snuggle McFluffernutter,R
+Snuggles McSnuggleton,C
+Mr. Fuzzy,C
+Fuzzy Muffin,R
+Fuzzy Wuzzy Muffin,R
+Snuggle Bunny Muffin,SR
+Snuggle Muffin,R
+Snuggles Muffin,C
+Snugglesworth Muffin,C
+Fuzzy Bunny,C
+Moppy,SR
+Snugglesworth Bunny,C
+Fuzzy Wuzzy Bunny,C
+Fuzzy McFluffernutter Bunny,R
+Snuggle McFluffernutter Bunny,R
+Fuzzy Muffin Bunny,C
+Fuzzy Wuzzy Muffin Bunny,C
+Snuggle Bunny Muffin Bunny,C
+Snuggle Muffin Bunny,C
+Snuggles Muffin Bunny,C
+Snugglesworth Muffin Bunny,R
+Mr. Fuzzy Bunny,C
+Fluffernutter Bunny,C
+Fluffernutter McFluffernutter Bunny,C
+Fluffy Bunny Muffin,C
+Fluffy Wuffy Bunny,R
+Fuzzy Wuzzy Fluffy Bunny,R
+Snuggle Fluffy Bunny,C
+Snugglesworth Fluffy Bunny,C
+Fuzzy Muffin Fluffy Bunny,C
+Snuggle Muffin Fluffy Bunny,C
+Snuggles Muffin Fluffy Bunny,R
+Fuzzy Bunny Fluffernutter,C
+Snugglesworth Bunny Fluffernutter,C
+Fuzzy Wuzzy Bunny Fluffernutter,C
+Fuzzy McFluffernutter Bunny Fluffernutter,C
+Snuggle McFluffernutter Bunny Fluffernutter,C
+Fuzzy Muffin Bunny Fluffernutter,C
+Fuzzy,C
+Bun Bun,SSR
+Pooky,SSR
